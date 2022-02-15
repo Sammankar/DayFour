@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sanjyot</string>
+    <string name="calculator">Calculator</string>
+    <array name="test">
+        <item> "THE GOD WINGS"</item>
+        <item> "ARC DICTATOR"</item>
+    </array>
+</resources>
